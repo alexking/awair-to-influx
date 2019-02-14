@@ -1,0 +1,4 @@
+graphqlclient==0.2.4
+influxdb==5.2.1
+python_dateutil==2.8.0
+PyYAML==3.13
