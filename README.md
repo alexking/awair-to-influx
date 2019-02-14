@@ -2,7 +2,7 @@
 Simple CLI program that uses the [Awair API](https://developer.getawair.com) to gather readings from your air quality sensors and ingest them into [InfluxDB](https://www.influxdata.com/). This allows you to visualize air quality trends over time 
 in a tool like Chronograf.
 
-![Example of data in Chronograf](docs/chronograf.png)
+<img src="docs/chronograf.png" alt="Example of data in Chronograf" width="450" />
 
 ## Setup
 
