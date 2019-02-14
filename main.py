@@ -9,8 +9,7 @@ import time
 
 from connectors import AwairConnector, InfluxConnector, AwairException
 
-# Info level logging just for testing
-# TODO: set this via an arguement
+# TODO: set this via an argument
 logging.basicConfig(format='%(levelname)s: %(message)s', level=logging.INFO)
 
 
